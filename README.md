@@ -3,9 +3,7 @@
 
 <img src="/Media/shuffled-banner-800x200.png" width="800" height="200">
 
-# [Shuffle Monster Community Meme Collection](https://github.com/ShuffleMonster/mediapack/tree/master/memes)
+# SHUF MEMES [CLICK HERE!!](https://github.com/ShuffleMonster/mediapack/tree/master/memes) <img src="/Media/spinning-eyes.gif" width="100" height="100">
 
-
-------------------------------------------------------------------------------
 ### [Website](https://shuffle.monster) | [Contract](https://etherscan.io/address/0x3a9fff453d50d4ac52a6890647b823379ba36b9e#code) | [Telegram](https://t.me/shuftoken) | [Reddit](https://www.reddit.com/r/ShuffleMonster/) | [Twitter](https://twitter.com/ShuffleToken) | [Medium](https://medium.com/shufflemonster)
 ------------------------------------------------------------------------------
