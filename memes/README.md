@@ -35,7 +35,6 @@
 <br>
 
 ## SHUFFLE TOKEN GIF MEMES
-__________________________________________________________________
 
 <a href="files/2f8d6480-7cc9-45e6-a9e7-5706afd62922.gif" target="_blank"><vid src="files/2f8d6480-7cc9-45e6-a9e7-5706afd62922.gif" width="200" height="200"></video></a>
 <a href="files/322b357e-b7ae-4ed5-84fd-5fbbe2d4bb5c.gif" target="_blank"><vid src="files/322b357e-b7ae-4ed5-84fd-5fbbe2d4bb5c.gif" width="200" height="200"></video></a>
