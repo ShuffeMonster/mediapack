@@ -1,7 +1,5 @@
-### SHUF COMMUNITY MADE MEMES
+## SHUF COMMUNITY MADE MEMES
 
-
-<br>
 <br>
 <a href="files/132028b5-8fa0-45f2-b71d-dbf1f622944b.jpeg" target="_blank"><img src="files/132028b5-8fa0-45f2-b71d-dbf1f622944b.jpeg" width="200" height="200"></a>
 <a href="files/18a66896-f3f5-486f-b43c-db35e9c84cdd.jpeg" target="_blank"><img src="files/18a66896-f3f5-486f-b43c-db35e9c84cdd.jpeg" width="200" height="200"></a>
@@ -33,10 +31,10 @@
 <a href="files/e327a82d-479e-4448-9540-1aecda309e85.jpeg" target="_blank"><img src="files/e327a82d-479e-4448-9540-1aecda309e85.jpeg" width="200" height="200"></a>
 <a href="files/f68b27c0-0132-47d4-9956-9a8d6371e497.jpeg" target="_blank"><img src="files/f68b27c0-0132-47d4-9956-9a8d6371e497.jpeg" width="200" height="200"></a>
 <a href="files/f8f55dfd-37d2-44fe-b824-ee70b283382a.jpeg" target="_blank"><img src="files/f8f55dfd-37d2-44fe-b824-ee70b283382a.jpeg" width="200" height="200"></a>
+<br>
+<br>
+### *SHUFFLE TOKEN GIF MEMES*
 
-#### *SHUFFLE TOKEN GIF MEMES*
-<br>
-<br>
 <a href="files/2f8d6480-7cc9-45e6-a9e7-5706afd62922.gif" target="_blank"><vid src="files/2f8d6480-7cc9-45e6-a9e7-5706afd62922.gif" width="200" height="200"></video></a>
 <a href="files/322b357e-b7ae-4ed5-84fd-5fbbe2d4bb5c.gif" target="_blank"><vid src="files/322b357e-b7ae-4ed5-84fd-5fbbe2d4bb5c.gif" width="200" height="200"></video></a>
 <a href="files/59618a84-df0c-4eb3-886e-80095fa494d9.gif" target="_blank"><img src="files/59618a84-df0c-4eb3-886e-80095fa494d9.gif" width="200" height="200"></a>
