@@ -3,10 +3,9 @@
 
 <img src="/Media/shuffled-banner-800x200.png" width="800" height="200">
 
-### [Shuffle Monster Community Meme Collection](https://github.com/ShuffleMonster/mediapack/tree/master/memes)
-
-_______________________________________________________________________________
-
-#### [Shuffle Monster Website](https://shuffle.monster) | [SHUF Contract](https://shuffle.monster) | [SHUF Contract](https://shuffle.monster)
+## [Shuffle Monster Community Meme Collection](https://github.com/ShuffleMonster/mediapack/tree/master/memes)
 
 
+------------------------------------------------------------------------------
+### [Website](https://shuffle.monster) | [Contract](https://etherscan.io/address/0x3a9fff453d50d4ac52a6890647b823379ba36b9e#code) | [Telegram](https://t.me/shuftoken) | [Reddit](https://www.reddit.com/r/ShuffleMonster/) | [Twitter](https://twitter.com/ShuffleToken) | [Medium](https://medium.com/shufflemonster)
+------------------------------------------------------------------------------
