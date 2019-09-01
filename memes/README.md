@@ -1,11 +1,6 @@
----
-layout: page
-title: Repository
-permalink: /repository/
----
+# SHUF COMMUNITY MADE MEMES
 
 
-##### *SHUFFLE TOKEN IMAGE MEMES*
 <br>
 <br>
 <a href="files/132028b5-8fa0-45f2-b71d-dbf1f622944b.jpeg" target="_blank"><img src="files/132028b5-8fa0-45f2-b71d-dbf1f622944b.jpeg" width="200" height="200"></a>
