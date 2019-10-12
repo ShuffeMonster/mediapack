@@ -1,7 +1,7 @@
 # Shuffle Monster (SHUF) mediapack
  ***feel free to use for whatever you like***
 
-<img src="/Media/spinning-eye-big.gif" width="250" height="250">
+<img src="/Media/spinning-eye-big.gif" width="200" height="200">
 
 
 #### [/ShuffleMonster/mediapack/Main Hat Logo/](/Main%20Hat%20Logo) >> *LOGO MEDIA*
